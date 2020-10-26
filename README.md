@@ -58,9 +58,11 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 + Jira , Service Now(ITIL) , Remedy
 
 </details>
+
+### Repositories ###
 ----------------------------------------------------------------------------------------------------------------------------
 
-**NOTE: Nobody is perfect , so do my repos**
+**NOTE: Nobody is perfect , so do my repositories**
 <details>
   
 <summary><b>My GitHub Repo----</b>expand to view</summary>
