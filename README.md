@@ -40,7 +40,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-*NOTE: I am not expert in below skills ,but I am countinuosly learning *
+**NOTE: I am not expert in below skills ,but I am countinuosly learning**
 <details>
 <summary><b>Languages/Frameworks/Other Skills/----</b>expand to view</summary>
   
@@ -57,7 +57,8 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 
 </details>
 ----------------------------------------------------------------------------------------------------------------------------
-*NOTE: Nobody is perfect , so do my repos*
+
+**NOTE: Nobody is perfect , so do my repos**
 <details>
   
 <summary><b>My GitHub Repo----</b>expand to view</summary>
