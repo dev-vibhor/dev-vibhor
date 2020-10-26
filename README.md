@@ -34,8 +34,8 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 -  How to reach me: **vibsin95@outlook.com** or **vibsin95@gmail.com**
 -  Continuosly Developing my Programming skills , Knowledge 
 -  I am open for new Opportunities and challanges!
--  Portfolio site: [Click](https://vibhorweb.000webhostapp.com/)
--  I am honest , Professional and Most importantly good team player
+-  Portfolio site: [Click here](https://vibhorweb.000webhostapp.com/)
+-  I am honest , Professional and Most importantly good team player . I can be creative as well as good in problem solver
 
 
 ### Skills ###
@@ -59,9 +59,12 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 ----------------------------------------------------------------------------------------------------------------------------
 *NOTE: Nobody is perfect , so do my repos*
 <details>
-<summary>**----My GitHub Repos----** </summary>
-+  Hello
-+  Bye
-+
-+ 
+  
+<summary><b>----My GitHub Repo----</b></summary>
+  
++  Link1
++  Link2
++  Link3
++  Link4
+
 </details>
