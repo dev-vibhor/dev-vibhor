@@ -31,18 +31,18 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 <img width="50%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 -  I’m currently practicing Python,EDA,Data Analysis,ML,deeplearning ,Dot Net , C#
--  How to reach me: **vibsin95@outlook.com** or **vibsin95@gmail.com**
--  Continuosly Developing my Programming skills , Knowledge 
+-  How to reach me: **vibsin95@outlook.com**/**vibsin95@gmail.com**
+-  Continuosly Developing my Programming skills , Knowledge and ethics towards work
 -  I am open for new Opportunities and challanges!
 -  Portfolio site: [Click here](https://vibhorweb.000webhostapp.com/)
--  I am honest , Professional and Most importantly good team player . I can be creative as well as good in problem solver
+-  I am honest , Professional and Most importantly good team player . I can be creative as well as good in problem solver.
 
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
 *NOTE: I am not expert in below skills ,but I am countinuosly learning *
 <details>
-<summary>Languages/Frameworks/Other Skills/</summary>
+<summary><b>Languages/Frameworks/Other Skills/----</b>expand to view</summary>
   
 + JavaScript
 + HTML
@@ -60,7 +60,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 *NOTE: Nobody is perfect , so do my repos*
 <details>
   
-<summary><b>----My GitHub Repo----</b></summary>
+<summary><b>My GitHub Repo----</b>expand to view</summary>
   
 +  Link1
 +  Link2
