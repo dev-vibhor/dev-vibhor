@@ -25,8 +25,8 @@
 
 ### About Me ###
 ----------------------------------------------------------------------------------------------------------------------------
-Currently, I am learning Artificial Intelligence via Coursera and Udemy courses.
-I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.com/vibhorsingh19495) and developing several projects
+Currently, I am learning ML, Python, C# via Coursera and Udemy courses.
+I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.com/vibhorsingh19495) and developing several projects on github
 
 <img width="50%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -43,6 +43,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 *NOTE: I am not expert in below skills ,but I am countinuosly learning *
 <details>
 <summary>Languages/Frameworks/Other Skills/</summary>
+  
 + JavaScript
 + HTML
 + CSS
@@ -55,16 +56,12 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 + Jira , Service Now(ITIL) , Remedy
 
 </details>
-
-
-
-### GitHub Stats ###
 ----------------------------------------------------------------------------------------------------------------------------
 *NOTE: Nobody is perfect , so do my repos*
 <details>
 <summary>**----My GitHub Repos----** </summary>
-+
-+
++  Hello
++  Bye
 +
 + 
 </details>
