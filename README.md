@@ -35,7 +35,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 -  Continuosly Developing my Programming skills , Knowledge and ethics towards work
 -  I am open for new Opportunities and challanges!
 -  Portfolio site: [Click here](https://vibhorweb.000webhostapp.com/)
--  I am honest , Professional and Most importantly good team player . I can be creative as well as good in problem solver.
+-  I am honest , Professional and Most importantly good team player . I can be creative as well as good in problem solving.
 
 
 ### Skills ###
