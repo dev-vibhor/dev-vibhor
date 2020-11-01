@@ -67,9 +67,12 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
   
 <summary><b>My GitHub Repo----</b>expand to view</summary>
   
-+  Link1
-+  Link2
-+  Link3
-+  Link4
++  [Sentiment Analysis_using JavaScript](https://github.com/dev-vibhor/SentimentAnalysis_JavaScript)
++  [Pollution Analysis pre/post covid19 in India(python)](https://github.com/dev-vibhor/pollution_covid19India)
++  [Pytessarct Ocr with regex(python)](https://github.com/dev-vibhor/ImageAnalysis)
++  [Opinion mining and analysis of movie reviews(Java)](https://github.com/dev-vibhor/MovieReviewAnalysis)
++  [In Progress]()
++  [In Progress]()
++  [In Progress]()
 
 </details>
