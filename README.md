@@ -51,6 +51,8 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 + CSS
 + PHP
 + Java
++ Electronic Data Interchange
++ ibm sterling integrator
 + Dot net , ADO.net , C#
 + Python , ML , deep learning
 + SQL , SQL Server , MongoDB , Toad
