@@ -34,7 +34,7 @@ I am honing my skills in SQL and Python on [HackerRank](https://www.hackerrank.c
 -  How to reach me: **vibsin95@outlook.com**/**vibsin95@gmail.com**
 -  Continuosly Developing my Programming skills , Knowledge and good ethics towards work.
 -  I am open for new Opportunities and challanges!
--  Portfolio site: [Click here](https://vibhorweb.000webhostapp.com/)
+-  Portfolio site: [Click here](https://devibhor.github.io/)
 -  I am honest , professional and most importantly good team player . I can be creative as well as good in problem solving.
 -  B.tech(SRM university,Chennai :8.422 cgpa) in Information Technology
 -  Worked in Wipro as project engineer
