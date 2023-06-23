@@ -14,9 +14,6 @@
   <a href="">
     <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ajmeese7" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&labelColor=000000&logo=HackerRank&logoColor=white&https://www.hackerrank.com/vibhorsingh19495?hr_r=1" />
-  </a>
   <a href="mailto:vibsin95@outlook.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
